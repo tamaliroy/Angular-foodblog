@@ -1,0 +1,47 @@
+.header {
+    height: 280px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.nav-font {
+    font-family: 'Karla', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.nav-link {
+    padding-left:15px !important;
+    padding-top:5px !important;
+}
+.navbar {
+    border-bottom: 4px double rgb(202, 200, 200);
+   // border-style: double;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    //position:fixed;
+}
+
+.web-heading {
+    text-align: center;
+    padding-top: 70px;
+}
+
+.page-header {
+    font-size: large;
+    color: black;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+
+.page-subheader {
+    font-family: cursive;
+    //font-weight: 100;
+    color: gray;
+    font-size: large;
+}
+
+li.right {
+    margin-left: 70px;
+}
